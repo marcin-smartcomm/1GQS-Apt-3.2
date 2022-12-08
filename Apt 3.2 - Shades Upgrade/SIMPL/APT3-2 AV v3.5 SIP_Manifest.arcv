@@ -1,0 +1,119 @@
+[BEGIN]
+  ObjTp=FSgntr
+  Sgntr=ArchiveManifest
+  RelVrs=4.1500.11
+  IsProgram=1
+  TopLevelProgram=APT3-2 AV v3.5 SIP.smw
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=APT3-2 AV v3.5 SIP.smw
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=APT3-2 AV v3.5 SIP.sig
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=APT3-2 AV v3.5 SIP.lpz
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=APT3-2 AV v3.5 SIP.smft
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=APT3-2 AV v3.5 SIP.lpz.hash
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=1GS TSW v1.8.sgd_
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Dynamic List Helper CF v1.0.umc
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=GSQ SIP Panel 01 v1.4 CF.ush
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=GSQ SIP Panel 02 v1.4 CF.ush
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=GSQ Intercom Video Routing v1.0.umc
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=SIP Make String v1.3.ush
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=SSH_Interface_v1_3.clz
+  Scope=2
+  Module=SIP Make String v1.3.ush
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Lighting Crosspoint v1.1 CF.umc
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Blinds Auto Config V1.1.umc
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Save Analog To File CF 1.2.ush
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=SSH_Interface_v1_3.clz
+  Scope=2
+  Module=Save Analog To File CF 1.2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=SSH Module v1.5 CF.umc
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=SSH Interface v1.5 IP Address Mod.ush
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=GSQ Apt Picker v1.1.ush
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=MDU Show Intercom v1.1.umc
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=1GSQ HVAC URL v2.0.ush
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Door Bell Save To File v1.0.umc
+  Scope=2
+[END]
